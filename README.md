@@ -1,4 +1,6 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+Game / Web Dev
+
 ![snake gif](https://github.com/idabblewith/idabblewith/blob/output/github-contribution-grid-snake.svg)
 <!--
 **idabblewith/idabblewith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

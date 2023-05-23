@@ -3,7 +3,7 @@
 
 ![snake gif](https://github.com/idabblewith/idabblewith/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idabblewith&show_icons=true&locale=en&layout=compact" alt="idabblewith" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idabblewith&show_icons=true&locale=en&layout=compact" alt="idabblewith" /></p>
 
 <!--
 **idabblewith/idabblewith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

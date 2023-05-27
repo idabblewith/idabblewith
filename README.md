@@ -1,23 +1,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+Jarid;+Welcome+to+My+Profile!;I+dabble+with+web+and+game+development+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+Jarid;+Welcome+to+My+Profile!;I+dabble+with+web+and+game+development.+;日本語でも👌)](https://git.io/typing-svg)
 
 ![snake gif](https://github.com/idabblewith/idabblewith/blob/output/github-contribution-grid-snake.svg)
   
 <br />
 
-  <br />
+<h2 font-weight="bold">:computer: Core Web Dev Stack<br /><br /></h2>
+    <br />
 
-<h2 font-weight="bold">Core Web Dev Stack</h2>
 <img src="https://skillicons.dev/icons?i=typescript,react,py,django,threejs,tailwind,postgresql,docker" width="100%">
 
 <br />
 <br />
 <br />
-<h2 font-weight="bold">Core Game Dev Stack</h2>
-  <br />
-
+<h2 font-weight="bold"> :video_game: Core Game Dev Stack <br /><br /></h2>
+  
+<br />
 <img src="https://skillicons.dev/icons?i=unity,cs,blender,py,vscode" width="100%">
   
  

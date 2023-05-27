@@ -6,20 +6,19 @@
 ![snake gif](https://github.com/idabblewith/idabblewith/blob/output/github-contribution-grid-snake.svg)
   
 <br />
-<h1 font-weight="bold">My Skills</h1>
 
   <br />
 
-<h2 font-weight="bold">Core Web Dev</h2>
-<img src="https://skillicons.dev/icons?i=typescript,react,django,tailwind,postgresql,docker,py,threejs" width="100%">
+<h2 font-weight="bold">Core Web Dev Stack</h2>
+<img src="https://skillicons.dev/icons?i=typescript,react,py,django,threejs,tailwind,postgresql,docker" width="100%">
 
 <br />
 <br />
 <br />
-<h2 font-weight="bold">Core Game Dev</h2>
+<h2 font-weight="bold">Core Game Dev Stack</h2>
   <br />
 
-<img src="https://skillicons.dev/icons?i=blender,unity,cs,vscode" width="100%">
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,py,vscode" width="100%">
   
  
   

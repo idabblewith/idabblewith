@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+Jarid;+Welcome+to+My+Profile!;I+dabble+with+web+and+game+dev+;Using+Python,+Typescript,+C+Sharp,+;Blender,+Unity,+and+Substance+Painter+)](https://git.io/typing-svg)
 
-
+<div align="center">
 ![snake gif](https://github.com/idabblewith/idabblewith/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idabblewith&layout=donut-vertical)](https://github.com/idabblewith/github-readme-stats) -->
 

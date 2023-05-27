@@ -11,7 +11,7 @@
   <br />
 
 <h2 font-weight="bold">Core Web Dev</h2>
-<img src="https://skillicons.dev/icons?i=typescript,react,next,django,flask,tailwind,postgresql,graphql,docker,py,threejs" width="100%">
+<img src="https://skillicons.dev/icons?i=typescript,react,django,tailwind,postgresql,docker,py,threejs" width="100%">
 
 <br />
 <br />
@@ -19,7 +19,7 @@
 <h2 font-weight="bold">Core Game Dev</h2>
   <br />
 
-<img src="https://skillicons.dev/icons?i=blender,unity,cs" width="100%">
+<img src="https://skillicons.dev/icons?i=blender,unity,cs,vscode" width="100%">
   
  
   

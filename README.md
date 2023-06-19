@@ -10,7 +10,7 @@
 <h2 font-weight="bold">:computer: Core Web Dev Stack<br /><br /></h2>
     <br />
 
-<img src="https://skillicons.dev/icons?i=typescript,react,py,django,threejs,tailwind,postgresql,docker" width="100%">
+<img src="https://skillicons.dev/icons?i=typescript,react,py,django,postgresql,docker" width="100%">
 
 <br />
 <br />

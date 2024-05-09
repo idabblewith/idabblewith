@@ -5,8 +5,8 @@
 
 <br/>
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/jarid-prince-820085267#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/jarid-prince-820085267#gh-dark-mode-only)
+[![linkedin](./images/linkedin-light.svg)](https://linkedin.com/in/jarid-prince-820085267#gh-light-mode-only)
+[![linkedin](./images/linkedin-dark.svg)](https://linkedin.com/in/jarid-prince-820085267#gh-dark-mode-only)
 <!--
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://jaridprince.com#gh-light-mode-only)

@@ -5,7 +5,7 @@
   
 <br />
 
-<h2 font-weight="bold">:computer: Core Web Dev Stack<br /><br /></h2>
+<h2 font-weight="bold">:computer: Web Dev<br /><br /></h2>
     <br />
 
 <img src="https://skillicons.dev/icons?i=typescript,react,py,django,postgresql,docker" width="100%">
@@ -13,7 +13,7 @@
 <br />
 <br />
 <br />
-<h2 font-weight="bold"> :video_game: Core Game Dev Stack <br /><br /></h2>
+<h2 font-weight="bold"> :video_game: Game Dev<br /><br /></h2>
   
 <br />
 <img src="https://skillicons.dev/icons?i=unity,godot,cs,blender,py,vscode" width="100%">

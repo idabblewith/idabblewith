@@ -16,7 +16,7 @@
 <h2 font-weight="bold"> :video_game: Core Game Dev Stack <br /><br /></h2>
   
 <br />
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,py,vscode" width="100%">
+<img src="https://skillicons.dev/icons?i=unity,godot,cs,blender,py,vscode" width="100%">
   
  
   

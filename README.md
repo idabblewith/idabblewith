@@ -4,16 +4,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&multiline=True&vCenter=true&size=18&width=800&height=60&duration=1500&repeat=False&lines=G'day👋+my+name+is+Jarid;I+dabble+with+web+and+game+development.+;)](https://git.io/typing-svg)
 
 
+
+<!--
 <h3>Connect with me on:</h3>
 
 [![linkedin](./images/linkedin-light.svg)](https://linkedin.com/in/jarid-prince-820085267#gh-light-mode-only)
 [![linkedin](./images/linkedin-dark.svg)](https://linkedin.com/in/jarid-prince-820085267#gh-dark-mode-only)
-<!--
 &nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://jaridprince.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jaridprince.com#gh-dark-mode-only)
--->
 <br/>
+-->
+
 
 <h2 align="center">⚡ Tech & Stats ⚡</h2>
 <br>

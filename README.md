@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&multiline=True&vCenter=true&size=18&width=800&height=60&duration=1500&repeat=False&lines=G'day👋+my+name+is+Jarid;I+dabble+with+web+and+game+development.+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&multiline=True&vCenter=true&size=18&width=800&height=60&duration=1500&repeat=False&lines=G'day👋+my+name+is+Jarid;I+dabble+with+web+and+application+development.+;)](https://git.io/typing-svg)
 
 <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idabblewith&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -28,14 +28,8 @@
   <tr width="100%">
     <td width="50%" valign="top" class="custom-padding">
       <div>
-        <h3 font-weight="bold" align="center">:computer: Web Dev<br /><br /></h2>
-        <img src="https://skillicons.dev/icons?i=typescript,react,py,django,postgresql,docker&perline=6" width="100%">
-      </div>
-    </td>
-    <td width="50%" valign="top" class="custom-padding">
-      <div style="flex: 1;">
-        <h3 font-weight="bold" align="center"> :video_game: Game Dev<br /><br /></h2>
-        <img src="https://skillicons.dev/icons?i=unity,godot,cs,blender,py,vscode&perline=6" width="100%">
+        <h3 font-weight="bold" align="center">:computer: Regularly Used<br /><br /></h2>
+        <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,py,django,postgresql,docker,unity,blender,cs,java,vscode&perline=12" width="100%">
       </div>
     </td>
   </tr>

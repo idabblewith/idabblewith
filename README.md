@@ -29,7 +29,7 @@
     <td width="50%" valign="top" class="custom-padding">
       <div>
         <h3 font-weight="bold" align="center">:computer: Regularly Used<br /><br /></h2>
-        <img src="https://skillicons.dev/icons?i=py,django,typescript,react,nextjs,cs,java,unity,blender,postgresql,docker,kubernetes&perline=12" width="100%">
+        <img src="https://skillicons.dev/icons?i=py,django,typescript,react,nextjs,java,cs,unity,blender,postgresql,docker,kubernetes&perline=12" width="100%">
       </div>
     </td>
   </tr>

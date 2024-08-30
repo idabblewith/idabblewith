@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&multiline=True&vCenter=true&size=18&width=800&height=60&duration=1500&repeat=False&lines=G'day👋+my+name+is+Jarid;I+dabble+with+web+and+application+development.+;)](https://git.io/typing-svg)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idabblewith&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idabblewith&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
   <br/>
 
 <!--

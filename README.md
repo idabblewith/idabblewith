@@ -9,7 +9,7 @@
   <tr width="100%">
     <td width="50%" valign="top" class="custom-padding">
       <div>
-        <img src="https://skillicons.dev/icons?i=py,django,typescript,react,nextjs,java,cs,unity,blender,postgresql,docker,kubernetes&perline=12" width="100%">
+        <img src="https://skillicons.dev/icons?i=py,django,typescript,react,java,cs,threejs,unity,blender,postgresql,docker,kubernetes&perline=12" width="100%">
       </div>
     </td>
   </tr>

@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>Website: www.jaridprince.com</p>
-  <p>LinkedIn: www.linkedin.com/in/jarid-prince</p>
+  <p>LinkedIn: www.linkedin.com/in/jaridprince</p>
   <br/>
   <div align="center">
 <table width="100%">

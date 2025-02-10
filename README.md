@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
 
 <div align="center">
+    <p>LinkedIn: www.jaridprince.com</p>
   <p>LinkedIn: www.linkedin.com/in/jarid-prince</p>
   <br/>
   <div align="center">

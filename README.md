@@ -1,8 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
 
 <div align="center">
-  <p>Website: https://www.jaridprince.com</p>
-  <p>LinkedIn: https://www.linkedin.com/in/jaridprince</p>
+  <a href="https://www.jaridprince.com">Website: https://www.jaridprince.com</a>
   <br/>
   <div align="center">
 <table width="100%">
